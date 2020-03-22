@@ -15,4 +15,5 @@ Bibliographie
 -------------
 
 [1] https://ruder.io/optimizing-gradient-descent/index.html
+
 [2] https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Gillot_Algorithmes.pdf
