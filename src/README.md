@@ -4,11 +4,14 @@ L'objectif de ce TP est d'implementer la descente de gradient avec les varientes
  - Momentum
  - Nesterov Accelerated : NAG
  - Mini Batch
- - Stochastic : AdaGrad RMSProp Adam
+ - Stochastic : 
+      + AdaGrad 
+      + RMSProp 
+      + Adam
  
  Pour le détail de chaque algorithme je vous propose de voir cet article [1]
  
-Documentation
+Bibliographie
 -------------
 
 [1] https://ruder.io/optimizing-gradient-descent/index.html
