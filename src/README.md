@@ -1,5 +1,5 @@
 # Implémentation de différentes variantes de l'algorithme d'optimisation de descente de gradient 
-L'objectif de ce TP est d'implementer la descente de gradient pour la régression logistqiue avec les varientes suivantes :
+L'objectif de ce TP est d'implementer la descente de gradient pour la régression logistique avec les varientes suivantes :
  - Batch Gradient
  - Momentum
  - Nesterov Accelerated : NAG
